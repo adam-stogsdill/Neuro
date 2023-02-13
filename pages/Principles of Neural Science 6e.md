@@ -18,6 +18,6 @@
 	- [[Chapter 12 Directly Gated Transmission]]
 	- [[Chapter 13 Synaptic Integration in the Central Nervous System]]
 	- [[Chapter 14 Modulation of Synaptic Transmission and Neuronal Excitability: Second Messengers]]
-	- Chapter 15 Transmitter Release
+	- [[Chapter 15 Transmitter Release]]
 	-
 	-
