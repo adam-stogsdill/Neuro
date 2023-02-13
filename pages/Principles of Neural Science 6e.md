@@ -1,9 +1,9 @@
--
 # Part I - Overall Perspective
-	- Chapter 1 The Brain and Behavior
-	- Chapter 2 Genes and Behavior
-	- Chapter 3 Nerve Cells, Neural Circuitry, and Behavior
-	- Chapter 4 The Neuroanatomical Bases by Which Neural Circuits Mediate Behavior
+	- [[Chapter 1 The Brain and Behavior]]
+	-
+	- [[Chapter 2 Genes and Behavior]]
+	- [[Chapter 3 Nerve Cells, Neural Circuitry, and Behavior]]
+	- Chapter 4 The Neuroanatomical Bases by Which Neural Circuits Mediate Behavior[]
 	- Chapter 5 The Computational Bases of Neural Circuits That Mediate Behavior
 	- Chapter 6 Imaging and Behavior
 	-
